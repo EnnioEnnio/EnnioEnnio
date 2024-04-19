@@ -1,4 +1,4 @@
-### Hello there 💫
+### Hello there, I'm Ennio 💫
 
 <!--
 **EnnioEnnio/EnnioEnnio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 **I'm currently working on two exciting projects:**
+🔭 **Currently Working On:**
 
-- At German Deep Tech Quantum: I engage in the intricate world of FinTech as a working student, focusing on algorithmic, market-neutral trading supported by machine learning with digital assets. My role involves hands-on data and software engineering tasks and extends to supporting strategic project identification and market analysis, as well as funding acquisition.
-- At Mount Sinai Health System New York (via Hasso-Plattner-Institute): I am part of a pioneering team developing an interactive assistant that translates natural language into SQL, executes it on a database containing electronic health records (EHR), and analyzes the results for the users. This project aims to simplify healthcare data accessibility for medical professionals, enhancing their decision-making by providing a chat-like interface to interact with the Mount Sinai Data Warehouse.
+- **German Deep Tech Quantum:** Engaging in algorithmic trading and market analysis for FinTech innovations, focusing on machine learning with digital assets. My role spans from data and software engineering to strategic project support.
+- **Mount Sinai Health System New York (via Hasso-Plattner-Institute):** Developing an interactive assistant that converts natural language queries into SQL, executes these queries and interprets the results. This tool aims to simplify access to healthcare data for medical professionals and medical students, enhancing their access to the Mount Sinai Data Warehouse.
 
-🌱 **What I'm Learning:** 
+🌱 **What I'm Learning:**
 
-Every project brings new challenges and unique learning opportunities. Currently, I am deepening my knowledge in large language models for natural language processing and exploring advanced data engineering techniques within the financial sector. Additionally, I am focusing on improving my skills in writing larger software projects, emphasizing high-quality code and robust software engineering practices. 
+- Advancing my expertise in machine learning, natural language processing with large language models and Application Deployment.
+- Exploring data engineering techniques in the financial sector and improving my software project skills for high-quality code and robust practices.
