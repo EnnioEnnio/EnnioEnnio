@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 🔭 **Currently Working On:**
 
 - **German Deep Tech Quantum:** Engaging in algorithmic trading and market analysis, focusing on machine learning with digital assets. My role spans from data and software engineering to strategic project support.
-- **Mount Sinai Health System New York (via Hasso-Plattner-Institute):** Developing AIR.MS Turtle, an interactive assistant that converts natural language queries into SQL, executes these queries and interprets the results. This tool aims to simplify access to healthcare data for medical professionals and medical students, enhancing their access to the Mount Sinai Data Warehouse.
+- **Hasso-Plattner-Institute:** Currently enrolled at the renowned Hasso-Plattner-Institute, persuing my Master in Computer Science.
 
 🌱 **What I'm Learning:**
 
 - Advancing my expertise in machine learning, natural language processing with large language models and Application Deployment.
 - Exploring data engineering techniques in the financial sector and improving my software project skills for high-quality code and robust practices.
+- Discovering my passion for reliable, scalable, maintainable systems
