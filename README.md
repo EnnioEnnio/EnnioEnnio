@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 🔭 **Currently Working On:**
 
-- **German Deep Tech Quantum:** Engaging in algorithmic trading and market analysis, focusing on machine learning with digital assets. My role spans from data and software engineering to strategic project support.
+- **Trade Republic (Berlin) — Site Reliability Engineering:** Contributing to the stability, scalability, and performance of core infrastructure systems.
 - **Hasso-Plattner-Institute:** Currently enrolled at the renowned Hasso-Plattner-Institute, persuing my Master in Computer Science.
 
 🌱 **What I'm Learning:**
 
-- Advancing my expertise in machine learning, natural language processing with large language models and Application Deployment.
-- Exploring data engineering techniques in the financial sector and improving my software project skills for high-quality code and robust practices.
-- Discovering my passion for reliable, scalable, maintainable systems
+- Deepening my understanding of **large-scale distributed systems**, focusing on **reliability, observability**, and **performance at scale**.
+- Exploring **Big Data processing frameworks**, stream processing pipelines, and efficient data architectures for handling high-throughput systems.
+- Learning to write systems with **hardware-conscious** and **performance-aware** design, optimizing for memory layout, compute efficiency, and network I/O.
