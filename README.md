@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 **Currently Working On:**
 
-- **Trade Republic (Berlin) — Site Reliability Engineering:** Contributing to the stability, scalability, and performance of core infrastructure systems.
+- **Trade Republic (Berlin) — Platform Engineering/Developer Experience:** Contributing to the stability, scalability, and performance of core infrastructure systems.
 - **Hasso-Plattner-Institute:** Currently enrolled at the renowned Hasso-Plattner-Institute, persuing my Master in Computer Science.
 
 🌱 **What I'm Learning:**
