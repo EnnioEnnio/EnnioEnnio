@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 🔭 **Currently Working On:**
  
-- **M.Sc. Computer Science (Systems Track) @ Hasso Plattner Institute:** Master's project on optimizing the execution of recurring SQL patterns in analytical workloads (Data Engineering Systems chair).
-- **Master's thesis (topic search):** Exploring LLM inference systems, attention variants, KV-cache/state management, and serving-engine internals.
+- **M.Sc. Computer Science (Systems Track) @ Hasso Plattner Institute:** Master's thesis at the Data Engineering Systems chair on efficient architectures and serving for real-time, full-duplex speech models using linear and hybrid attention.
 
 🌱 **What I'm Learning:**
  
-- **LLM inference internals:** paged KV caching, prefix reuse, speculative decoding and how linear/hybrid attention (Gated DeltaNet, KDA) changes the memory-management game.
-- Reading my way through **vLLM and SGLang internals**, with the goal of contributing upstream.
+- **Efficient sequence models:** linear attention, state-space models and gated delta-rule layers (Mamba-2, Gated DeltaNet, KDA), from hardware-efficient training to what a bounded recurrent state changes at inference time.
+- **LLM inference & serving:** KV-cache and state management, IO-aware attention kernels, and serving-engine internals (vLLM, SGLang), with the goal of contributing upstream.
 - **Hardware-conscious data processing:** cache-aware layouts and low-level performance work in C++/Go, building on database-engine coursework.
 
 🧪 **Selected Projects:**
