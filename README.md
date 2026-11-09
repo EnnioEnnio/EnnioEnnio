@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 **Currently Working On:**
  
-- **M.Sc. Computer Science (Systems Track) @ Hasso Plattner Institute:** Master's thesis at the Data Engineering Systems chair on efficient architectures and serving for real-time, full-duplex speech models using linear and hybrid attention.
+- **M.Sc. Computer Science (Systems Track) @ Hasso Plattner Institute:** Master's thesis in progress - more on that soon! 
 
 🌱 **What I'm Learning:**
  
